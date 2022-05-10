@@ -1,0 +1,21 @@
+.jumbotron {
+  padding-top: 6rem;
+}
+#projects .card-body a:hover {
+  color: black;
+  background-color: aliceblue;
+}
+body {
+  font-family: poppins;
+}
+#contact button:hover {
+  background-color: white;
+  color: black;
+}
+footer p,
+a {
+  color: black;
+}
+footer {
+  padding-bottom: 40px;
+}
