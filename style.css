@@ -20,9 +20,13 @@ a {
 footer {
   padding-bottom: 40px;
 }
-#contact p a:hover {
-  color: rgb(247, 247, 247);
+#contact a {
+  color: white;
 }
 footer p a:hover {
   color: black;
+}
+#contact a:hover {
+  color: black;
+  background-color: white;
 }
