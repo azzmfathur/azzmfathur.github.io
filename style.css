@@ -15,7 +15,14 @@ body {
 footer p,
 a {
   color: black;
+  text-decoration: none;
 }
 footer {
   padding-bottom: 40px;
+}
+#contact p a:hover {
+  color: rgb(247, 247, 247);
+}
+footer p a:hover {
+  color: black;
 }
